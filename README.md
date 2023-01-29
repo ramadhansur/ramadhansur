@@ -12,13 +12,11 @@ Currently working with Web Development.
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working on RPA </br>
-    - 🌱 I’m currently learning Python,SwiftUI and UIKit </br>
-    - 👯 I’m looking to collaborate on Automation Project, Mobile Apps. </br>
-    - 🤔 I’m looking for help with master of programming. hehe </br>
+    - 🌱 I’m currently learning PHP, HTML, CSS. </br>
+    - 👯 I’m looking to collaborate on Web Development. </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:goodfe@yahoo.com">Email me!</a>  </br>
+    - 📫 How to reach me: <a href="mailto:ramadhansuryanto44@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
 </details>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=bagusfe&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
