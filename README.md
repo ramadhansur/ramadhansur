@@ -11,7 +11,7 @@ Currently working with Web Development.
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on RPA </br>
+    - 🔭 I’m currently working on Web Development </br>
     - 🌱 I’m currently learning PHP, HTML, CSS. </br>
     - 👯 I’m looking to collaborate on Web Development. </br>
     - 💬 Ask me about anything.</br>
