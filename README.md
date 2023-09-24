@@ -12,7 +12,7 @@
 
 🚀 Let's collaborate and turn your ideas into exceptional web solutions. Feel free to explore my repositories and connect with me. I'm here to bring your web projects to life!
 
-📫 You can reach me at <a href="mailto:ramadhansuryanto44@gmail.com">Email</a> or connect with me on <a href:"https://www.linkedin.com/in/ramadhanss/">Linkedin</a> for any inquiries or exciting opportunities.
+📫 You can reach me at <a href="mailto:ramadhansuryanto44@gmail.com">Email</a> or connect with me on <a href="https://www.linkedin.com/in/ramadhanss/">Linkedin</a> for any inquiries or exciting opportunities.
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=ramadhansur&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
